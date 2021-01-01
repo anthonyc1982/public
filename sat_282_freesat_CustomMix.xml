@@ -1,0 +1,28 @@
+<custommix>	
+	<inserts>
+		<!-- Adds Irish saorview channels not available on freesat -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="1" target="1"></insert> <!-- RTE One -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="2" target="2"></insert> <!-- RTE2 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="3" target="3"></insert> <!-- Virgin Media 1 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="4" target="4"></insert> <!-- TG4 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="5" target="5"></insert> <!-- Virgin Media 2 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="6" target="6"></insert> <!-- Virgin Media 3 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="7" target="7"></insert> <!-- RTE Junior -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="11" target="8"></insert> <!-- RTE One +1 -->
+		<insert provider="terrestrial_ie_saorview_PSB1" source="21" target="9"></insert> <!-- RTE News Now -->		
+		<insert provider="sat_282_sky_uk" source="804" target="104"></insert><!-- Channel 4 HD -->
+	</inserts>
+	<sections>
+		<!-- Adds Irish channels bouquet -->
+		<section number="1">Saorview Channels</section>
+    </sections>
+</custommix>
+   
+    
+
+
+
+		
+
+  
+	
